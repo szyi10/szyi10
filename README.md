@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Szymon Kędzior</h1>
-🔭 I’m currently looking for a job<br>🌱 I’m currently learning Vue.js<br>👨‍💻 All of my projects are available at https://www.szyi.xyz/<br>📫 How to reach me szymon.ked16@gmail.com<br>📄 Know about my experiences https://www.szyi.xyz/about<br>⚡ Fun fact I'm big fan of Formula 1<br>
+🔭 I’m currently looking for a job<br>🌱 I’m currently learning Node.js & Express.js and MongoDB<br>👨‍💻 All of my projects are available at https://www.szyi.xyz/<br>📫 How to reach me szymon.ked16@gmail.com<br>📄 Know about my experiences https://www.szyi.xyz/about<br>⚡ Fun fact I'm big fan of Formula 1<br>
 
 # <h3 align="left">Connect with me:</h3>
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/szyi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/szymon-ked16) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/szyked) 
