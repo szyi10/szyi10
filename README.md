@@ -1,4 +1,4 @@
-![Banner](/banner.jpg)
+![Banner](/new-banner.jpg)
 ➡️I am seeking employment or an internship that will allow me to gain my first professional experience. I offer full commitment to carrying out assigned duties and a high level of availability.<br><br>
 
 🔭 I’m currently looking for a job<br>🌱 I’m currently learning Node.js & Express.js and MongoDB<br>👨‍💻 All of my projects are available at https://www.szyi.xyz/<br>📫 How to reach me szymon.ked16@gmail.com<br>📄 Know about my experiences https://www.szyi.xyz/about
