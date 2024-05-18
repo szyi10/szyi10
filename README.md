@@ -25,9 +25,14 @@ I've been coding for 5 years, starting with HTML and CSS. Now I'm into fullstack
 - 💽 MySQL, MongoDB
 +  a lot more ...
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szyi10&layout=compact)
+
+
 ### Socials
 
 - [szyi.xyz](https://www.szyi.xyz/)
 - [@szyi](./) on Discord
 - [@szyked](https://twitter.com/szyked) on Twitter
 - [Szymon Kędzior](https://www.linkedin.com/in/szymon-ked16/) on LinkedIn
+
+
